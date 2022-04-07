@@ -2,7 +2,7 @@
 
 Most of you probably already know them, lodash/underscore was built to provide utility functions for common tasks in Javascript. But some you don’t want to install a package for small use case. So I created this file to provide a quick access to the most used functions. I hope you will find it useful.
 
-### [Demo & Reference](https://github.com/hrid0ybd/javascript-quick-functions)
+### [Demo & Reference](https://github.com/saifulbdDev/javasciptfunction)
 
 ---
 
